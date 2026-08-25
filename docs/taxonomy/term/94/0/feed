@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://coveredinbees.org.archived.website"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>www.coveredinbees.org - trees</title>
+ <link>https://coveredinbees.org.archived.website/taxonomy/term/94/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>How to make completely opposing claims using the same survey data (or: how to cherry-pick)</title>
+ <link>https://coveredinbees.org.archived.website/node/484</link>
+ <description>&lt;p&gt;&lt;img src=&quot;http://www.coveredinbees.org/sites/www.coveredinbees.org/files/sheffieldStatementToBBConTrees.png&quot; width=&quot;300&quot; class=&quot;rightwithborder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sheffield Council put out a statement on the BBC recently, during an episode of &lt;a href=&quot;http://www.bbc.co.uk/programmes/b006t0bv&quot;&gt;Countryfile&lt;/a&gt;, defending their outsourced &lt;a href=&quot;https://www.amey.co.uk/about-us/amey-in-your-area/north-east/sheffield-streets-ahead/&quot;&gt;Streets Ahead contract&lt;/a&gt; against accusations of needlessly &lt;a href=&quot;https://www.theguardian.com/uk-news/2017/oct/26/root-and-branch-opposition-to-sheffield-tree-plan&quot;&gt;felling thousands of mature street trees&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We surveyed 27,000 households. Fewer than 7% said they disagreed with the plans. The contract will bring huge benefits to the city&#039;s infrastructure which is why the vast majority of Sheffielders support our plans and why the activists remain out of touch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Only a small minority (&#039;fewer than 7%&#039;) oppose their plans? And &#039;the vast majority of Sheffielders&#039; are in support? Here&#039;s the thing. Using &lt;a href=&quot;https://www.sheffield.gov.uk/content/dam/sheffield/docs/roads-and-pavements/managingtrees/All%20Survey%20Results%20Final%20Copy.pdf&quot;&gt;&lt;strong&gt;exactly the same data&lt;/strong&gt;&lt;/a&gt; Sheffield Council have used, I could put out the following &lt;strong&gt;equally correct&lt;/strong&gt; statement, in support of the tree protestors:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fewer than 7% of households said they agreed with Sheffield Council&#039;s plans. The vast majority of Sheffielders oppose their plans. The Council remains out of touch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Wait, what? Only a small minority &lt;em&gt;support&lt;/em&gt; the plans? That&#039;s &lt;em&gt;entirely the opposite message&lt;/em&gt;. How can the same numbers support both of them?&lt;/p&gt;
+
+&lt;p&gt;Well, you have to do two misleading things. First, you need to &lt;a href=&quot;https://en.wikipedia.org/wiki/Cherry_picking&quot;&gt;cherry-pick&lt;/a&gt; a number. Second, you use a dubious statistical choice that makes it look like a tiny minority oppose the plans, when in reality the data shows an even split of opinion.&lt;/p&gt;
+
+&lt;p&gt;Let&#039;s go through those two. First, the cherry-pick. The actual survey numbers are as follows. The total number of households they posted letters to is 26677 (round up and you get &#039;27000 households&#039;). &lt;strong&gt;3574 households actually responded&lt;/strong&gt; - that&#039;s 13.4% of total survey invites. Of those 3574, &lt;strong&gt;1774 households opposed&lt;/strong&gt; the plans and &lt;strong&gt;1800 households supported&lt;/strong&gt; them.&lt;/p&gt;
+
+&lt;p&gt;1774 opposed, 1800 in support? That sounds like something close to an even split of opinion - and indeed, it&#039;s not statistically distinguishable from half against, half in support. Not a tiny minority, not a vast majority.&lt;/p&gt;
+
+&lt;p&gt;If we cherry-pick just one of those and ignore the other, we&#039;re half way to making one of our two opposing statements. The next step: ignore that you should use the number of &lt;strong&gt;responses&lt;/strong&gt; to your survey (3574) to work out the percentages and use the number of letters you posted instead (26677).&lt;/p&gt;
+
+&lt;p&gt;By doing that, you can get the &#039;fewer than 7%&#039; number for both. So we can cherry-pick too: 1800 in support as a proportion of all the letters posted? Fewer than 7%. (1800 over 26677 then multiplied by a hundred to get the percent.)&lt;/p&gt;
+
+&lt;p&gt;If &lt;em&gt;exactly the same numbers&lt;/em&gt; can be used to produce two completely opposed statements, I hope it&#039;s obvious that you&#039;re doing something wrong and the numbers are being misused.&lt;/p&gt;
+
+&lt;p&gt;The council have defended the statement saying it&#039;s factually correct. If you squint, you can just about see how &#039;we surveyed 27,000 households, fewer than 7% said they disagreed with the plans&#039; is technically true. But I&#039;ve just shown how the same &#039;technically true&#039; method can be used to support entirely the opposite message. That&#039;s the power of cherry-picking.&lt;/p&gt;
+
+&lt;p&gt;And it&#039;s not a one-off either. Via the &lt;a href=&quot;https://twitter.com/sccstreetsahead/status/918410552019505153&quot;&gt;Streets Ahead twitter account&lt;/a&gt;, the same data was used to claim only a tiny minority on &lt;em&gt;one street&lt;/em&gt; opposed the plans there:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our household survey results show that of the 54 households on the road, 5% opposed our proposals for street tree replacement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You won&#039;t be surprised to learn: there were only six actual responses on that street, 3 for and 3 against. So again, it&#039;s equally correct (but still inappropriate) to say &quot;5% supported our proposals&quot;. (It was Rivelin Valley Road, so&#039;s you know - again, the numbers are in the document above.)&lt;/p&gt;
+
+&lt;p&gt;All of this is ignoring the &#039;vast majority of Sheffielders in support&#039; statement. In a way, this is the most worrying part. It&#039;s just plain wrong, if we&#039;re going by this data. But in the context of the &#039;fewer than 7%&#039; line, I can imagine how one might think, &#039;well, more than 93% must be in support then&#039;. That&#039;s kind of implied, isn&#039;t it?&lt;/p&gt;
+
+&lt;p&gt;Yet as we&#039;ve just seen, using the Council&#039;s (inappropriate) method, it would actually be &#039;fewer than 7%&#039; opposed &lt;strong&gt;and&lt;/strong&gt; &#039;fewer than 7%&#039; in support. They not only omitted to mention this, they have added in a &#039;vast majority&#039; claim that appears to be completely unfounded. So we&#039;re clear, there&#039;s nothing in these numbers that even remotely supports a &#039;vast majority&#039; either for or against. It&#039;s an even split.&lt;/p&gt;
+
+&lt;h2&gt;The ethics of numbers&lt;/h2&gt;
+
+&lt;p&gt;If your idea of factually correct allows you to make entirely opposed claims with the same numbers, it means you are likely &lt;a href=&quot;https://en.wikipedia.org/wiki/Cherry_picking&quot;&gt;cherry-picking&lt;/a&gt;: &quot;pointing to individual cases or data that seem to confirm a particular position, while ignoring a significant portion of related cases or data that may contradict that position&quot;. Though here, the cherry-pick wouldn&#039;t really work without also mangling how surveys are meant to be used.&lt;/p&gt;
+
+&lt;p&gt;I work with numbers in my job: it&#039;s a matter of professional ethics to make sure, as much as we can, that our work can be trusted. (Have a read of this &lt;a href=&quot;https://www.statisticsauthority.gov.uk/wp-content/uploads/2015/12/images-codeofpracticeforofficialstatisticsjanuary2009_tcm97-25306.pdf&quot;&gt;code of practice&lt;/a&gt; from the &lt;a href=&quot;https://www.statisticsauthority.gov.uk/about-the-authority/what-we-do/&quot;&gt;UK Statistics Authority&lt;/a&gt; - it&#039;s a good take on the kind of integrity and honesty we&#039;re supposed to aim for.)&lt;/p&gt;
+
+&lt;p&gt;We don&#039;t know how Sheffield Council created this statement. I can imagine a single over-worked officer under great pressure to get a message out at short notice. But I don&#039;t think it&#039;s unreasonable to expect the same level of trust from our local councils when they use statistics.&lt;/p&gt;
+
+&lt;p&gt;As &lt;a href=&quot;https://twitter.com/RalfLittle/status/930138295438331904&quot;&gt;Ralf Little recently said to Jeremy Hunt&lt;/a&gt; (I paraphrase slightly): &#039;the good news is, now that you know that this statistic is total nonsense, you won’t feel the need to use it again&#039;.&lt;/p&gt;
+
+&lt;h2&gt;The actual numbers&lt;/h2&gt;
+
+&lt;p&gt;Let&#039;s end on looking at what this survey actually &lt;strong&gt;does&lt;/strong&gt; show - that there&#039;s a pretty even split for and against. I should start by saying, we shouldn&#039;t really be using the independent tree panel survey&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; for this at all. Households were asked their views on trees &lt;em&gt;on their own road&lt;/em&gt;. They were &lt;strong&gt;not&lt;/strong&gt; asked, &#039;do you support or oppose the city-wide Streets Ahead plan for tree management?&#039; They also surveyed &lt;em&gt;households&lt;/em&gt;, not individuals. But I guess that&#039;s small potatoes compared to the above.&lt;/p&gt;
+
+&lt;p&gt;27000 households (rounded up) is the &lt;strong&gt;invite number&lt;/strong&gt; and 3754 is the &lt;strong&gt;response number&lt;/strong&gt;. Trying to maximise response number is central to any survey: the higher the response rate, the more your sample can be relied on to accurately capture what the larger group thinks.&lt;/p&gt;
+
+&lt;p&gt;This is hopefully obvious, but let&#039;s spell it out to be sure. &lt;strong&gt;We don&#039;t know what the households who didn&#039;t respond think&lt;/strong&gt;. This is the entire point of surveys: get a sample of views so you can make deductions about everyone else.&lt;/p&gt;
+
+&lt;p&gt;So here, the actual split in the response numbers I gave above is 49.6% opposed, 50.4% in support. I may get round to another post explaining why this can&#039;t be statistically distinguished from an even 50/50 split - though the intuitive idea is just: how much could that split change as you get more responses? Here, we have a 16% sample - that&#039;s pretty big. It&#039;s very unlikely to change a lot, but because it&#039;s so close to 50%, it could likely shift either side of that 50/50 mark.&lt;/p&gt;
+
+&lt;p&gt;At any rate, it is &lt;strong&gt;astronomically&lt;/strong&gt; unlikely that &#039;fewer than 7%&#039; is the correct percent opposed. For that to be true, all the other households that didn&#039;t respond would have to be 100% in favour. The 16% sample would have had to have picked up on every single household opposed. Just... no.&lt;/p&gt;
+
+&lt;p&gt;So to end: whether or not the Council knew they were doing this, they have selected numbers to support their own message - as I&#039;ve shown with a statement claiming exactly the opposite, using exactly the same data and method. This is some way before worrying about sampling rates and confidence intervals. And the &#039;vast majority&#039; thing... whu?? So let&#039;s just end with a tip:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Check if you can put out two equally true but mutually exclusive statements using your method. If you can, your method is wrong. Try again.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+
+&lt;li id=&quot;fn:1&quot;&gt;
+&lt;p&gt;Sheffield Council surveyed households, one street at a time, to find out if residents wanted an &lt;a href=&quot;http://www.sheffieldnewsroom.co.uk/independent-tree-panel-work-complete/&quot;&gt;independent tree panel&lt;/a&gt; to re-examine decisions about trees on their street. Again, &lt;a href=&quot;https://www.sheffield.gov.uk/content/dam/sheffield/docs/roads-and-pavements/managingtrees/All%20Survey%20Results%20Final%20Copy.pdf&quot;&gt;the data is here&lt;/a&gt;. It collated all of those single street surveys into one document.&amp;#160;&lt;a href=&quot;#fnref:1&quot; rev=&quot;footnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/node/484&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/node/484#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/13">gubbins</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/9">4 stars</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/93">sheffield</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/92">statistics</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/94">trees</category>
+ <pubDate>Thu, 23 Nov 2017 15:53:30 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">484 at https://coveredinbees.org.archived.website</guid>
+</item>
+</channel>
+</rss>

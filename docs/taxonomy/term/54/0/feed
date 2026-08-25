@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://coveredinbees.org.archived.website"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>www.coveredinbees.org - model</title>
+ <link>https://coveredinbees.org.archived.website/taxonomy/term/54/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Merging at the edges</title>
+ <link>https://coveredinbees.org.archived.website/node/257</link>
+ <description>&lt;p&gt;&lt;em&gt;A (hopefully measured) rant about sociobiology / pyschology / behavioural modelling, in response to an email on the SIMSOC list, rehashing themes covered on this blog&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/node/257&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/node/257#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/11">academic</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/49">hayek</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/54">model</category>
+ <pubDate>Sat, 13 Jun 2009 20:06:30 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">257 at https://coveredinbees.org.archived.website</guid>
+</item>
+<item>
+ <title>Inequality: a natural consequence of randomness. Honest.</title>
+ <link>https://coveredinbees.org.archived.website/node/234</link>
+ <description>&lt;p&gt;This is probably a foolish venture (given my math ignorance) but here&#039;s some thoughts on an economic random walk. (Any pointers to elementary fuck-ups / blindingly obvious things I&#039;m missing appreciated.) I&#039;ve come across the graphs here in each of the simple models I&#039;ve done of trade exchanges. This one isn&#039;t a real trade exchange - it&#039;s had price decisions removed entirely. So apart from the limit on the amount of money in the economy and the requirement that money is &#039;exchanged&#039;, they &lt;em&gt;are&lt;/em&gt; random walks. It&#039;s like this. We start with: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100 people, 100 pounds each (so the amount of money in this &#039;economy&#039; remains constant: the mean is always 100.)&lt;/li&gt;
+&lt;li&gt;Run for 200,000 days&lt;/li&gt;
+&lt;li&gt;On each day, each person randomly chooses someone, and gives them a pound if they have a pound to give. If they don&#039;t, on to the next person&#039;s random choice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(See links below for graphs and code.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/node/234&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/node/234#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/11">academic</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/7">2  stars</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/37">economics</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/54">model</category>
+ <pubDate>Fri, 02 May 2008 16:01:13 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">234 at https://coveredinbees.org.archived.website</guid>
+</item>
+</channel>
+</rss>

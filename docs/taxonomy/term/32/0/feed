@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://coveredinbees.org.archived.website"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>www.coveredinbees.org - complexity</title>
+ <link>https://coveredinbees.org.archived.website/taxonomy/term/32/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Adaptive landscapes 2</title>
+ <link>https://coveredinbees.org.archived.website/adaptivelandscapes2</link>
+ <description>&lt;p&gt;Back in 2009, I was talking about &lt;a href=&quot;http://www.coveredinbees.org/node/259&quot;&gt;adaptive landscapes&lt;/a&gt;: three real places and the quite different systems that human communities had evolved there to manage them. That was just before the PhD let go of those strands to focus on spatial economics (I&#039;d been, hubristically, trying to combine all those up to that point). Two of those communities are concrete examples of non-centralised social technologies[1] achieving specific resource goals. The Balinese rice system constrains water use in a way that optimises the balance between pest management and productivity. Andean potato production was a magical innovation machine and living, breathing laboratory spread over the hills.&lt;/p&gt;
+&lt;p&gt;This stuff is still very dear to my heart, and flowed directly from the questions in the &lt;a href=&quot;https://dl.dropboxusercontent.com/u/306562/Thesis/DanOlner_DraftPhDproposal_Mar6-v3c.doc&quot;&gt;original PhD proposal&lt;/a&gt;. I want to get on to the adaptive landscapes stuff, but let&#039;s lead into that by answering a more straightforward bit from PhD #1.0. Top of the list: was Hayek right about the sacredness of the price system? Was its &#039;spontaneous order&#039; a singularity in human history, requiring any attempt at planned interference in human affairs to be suppressed? Given what I&#039;ve just said about Bali and Peru – guess what? Shock: no, I don&#039;t think he was. He correctly identified the price system as a distributed social technology, emerging from the uniquely human mix of evolution and language. But, far from being astronomically unlikely, there&#039;s evidence that humans are primed to create this sort of structure. I&#039;ve long entertained a notion that adaptive landscapes are intimately related to the emergence of language itself, Wittgenstein&#039;s notion of meaning as a kind of flock tying nicely to that.&lt;/p&gt;
+&lt;p&gt;Whether that&#039;s true, or whether adaptive landscapes were a later innovation built on the platform language provided, makes little difference to their riposte to Hayek: we are natural-born de-centralisers, and we can make systems as diverse as you can imagine. Deifying the price system? Educating the socialism out of people (Hayek acknowledged people have altruistic instincts early in life) so&#039;s they didn&#039;t get the urge to meddle? Silly.&lt;/p&gt;
+&lt;p&gt;That&#039;s a gross over-simplification of Hayek&#039;s thinking and, in particular, I do partly buy his aversion to &quot;planning blindness&quot; and his view that social change should be more like gardening than engineering or construction. (Planning blindness nearly broke Bali&#039;s rice management system, for instance.) But it&#039;s clear that, if we followed his manifesto to the letter, new adaptive landscapes would have immense difficulty taking root, let alone blossoming.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/adaptivelandscapes2&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/adaptivelandscapes2#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/88">adaptivelandscapes</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/32">complexity</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/49">hayek</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/77">planet3</category>
+ <pubDate>Fri, 17 Jul 2015 12:14:28 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">466 at https://coveredinbees.org.archived.website</guid>
+</item>
+<item>
+ <title>Equilibrium schmequil-schmibrium</title>
+ <link>https://coveredinbees.org.archived.website/node/454</link>
+ <description>&lt;p&gt;A &lt;a href=&quot;http://crookedtimber.org/2014/02/10/macroeconomics-made-easy/#comment-511899&quot;&gt;comment by `Zamfir&#039; at crooked timber&lt;/a&gt; (via &lt;a href=&quot;krugman.blogs.nytimes.com/2014/02/10/macroeconomic-winners-and-losers-implicitly-wonkish/&quot;&gt;Krugman&lt;/a&gt;) jumped out at me:&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;Lots of mechanics and other physical processes are modelled as equilibria, or quasi equilibria, even when people know that it is not correct. That&#039;s typically the opposite of purity-obsessed scholastism, it&#039;s more an engineering fix to get bad results that are still better than no results. You multiply the results by an out-of-the-blue correction factor for `dynamical effects&#039;, and hope for the best.&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Contrast with &lt;a href=&quot;http://www.nature.com/nature/journal/v448/n7154/full/448647a.html&quot;&gt;Philip Ball&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;[Economic] models take no account of real human behaviour, which is far too messy to permit any theorems that can be proved rigorously. Economic models become citadels of crystalline mathematical perfection that would shatter if touched by the harsh rays of reality.&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;(He does immediately go on to say &quot;it would be grossly unfair to suggest that this describes everything that happens in economics, let alone in all social sciences... But it is widespread&quot;.)&lt;/p&gt;
+&lt;p&gt;His target isn&#039;t specifically the use of static equilibrium assumptions in economic models, but the view Ball gives is spot on for how most agent-based modellers and complexity thinkers view it. ABM and complexity are seen as &quot;a pioneering break from a moribund Newtonian worldview&quot; (Manson 2001 p.412), obviously superior to those silly static equilibria. Usually they will argue that&#039;s the case because it&#039;s `more realistic&#039;. Hmm - so&#039;s Call of Duty 4, I&#039;m not sure that makes it a better model of anything.&lt;/p&gt;
+&lt;p&gt;Slightly less flippantly: the models are never the problem. You try what you can and throw it at the wall of reality. Some things stick. Or, as Einstein put it, talking about physics: it&#039;s &lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;&quot;a logical system of thought which is in a state of evolution, whose basis cannot be distilled, as it were, from experience by an inductive method, but can only be arrived at by free invention. The justification (truth content) of the system rests in the verification of the derived propositions by sense experiences. The skeptic will say: `it may well be true that this system of equations is reasonable from a logical standpoint. But it does not prove that it corresponds to nature&#039;. You are right, dear skeptic. Experience alone can decide on truth.&quot; (Quoted in Kaldor 1972 p.1239.)&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Like I say: try what you can, throw it at reality. I&#039;m not saying I&#039;m any good at this - I have a definite tendency to prefer making little pretend worlds - but the point is, there&#039;s nothing intrinsically wrong with using static equilibrium as an assumption. Zamfir&#039;s quote made me happy thinking about it being used in a practical manner all over the place. In some situations it&#039;s useful, in others less so, in some it makes no sense at all. The point is how it&#039;s used (&lt;a href=&quot;http://www.coveredinbees.org/node/378&quot;&gt;already rambled about that&lt;/a&gt; at some length).&lt;/p&gt;
+&lt;p&gt;I have this notion there&#039;s a direct parallel to `emergence&#039; in agent modelling. ABM is all about interaction: that&#039;s its basic structure and its main strength. The use of physics ideas in classical economics is its strength, but it&#039;s also what makes it brittle. The same is true for ABM. To be useful, you want your method to be able to help examine any number of different questions - but in ABM, it&#039;s easy to end up defaulting to Epstein&#039;s `if you didn’t grow it, you didn’t explain it&#039; (Epstein 2006 p.xii) and thinking you&#039;ve answered something. Di Paolo and Bullock nail that one: conflating emergence and explanation means whatever you were wanting to look at has been `brushed under the carpet of emergence&#039; (Di Paolo et al. 2000 p.8).&lt;/p&gt;
+&lt;p&gt;This is somewhat reminiscent of the final deathstar scene in Return of the Jedi: ABM ends up nearly becoming the thing it hates most: wedded to an obsession with realism, it can no longer experiment or pursue a diverse range of questions. Actually, that didn&#039;t sound anything like Return of the Jedi.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/node/454&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/node/454#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/32">complexity</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/37">economics</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/36">evolutionary economics</category>
+ <pubDate>Thu, 13 Feb 2014 20:39:50 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">454 at https://coveredinbees.org.archived.website</guid>
+</item>
+<item>
+ <title>Why make things simple when one can make them complicated?</title>
+ <link>https://coveredinbees.org.archived.website/node/159</link>
+ <description>&lt;p&gt;Just started reading Manuel DeLanda&#039;s &#039;A New Philosophy of Society: Assemblage Theory and Social Complexity&#039;161 - a brave title! But it&#039;s got me braincells going on a Monday, so it can&#039;t be all bad. He&#039;s immediately argued against reductionism at the micro and macro levels and started talking about things being &#039;more than the sum of their parts&#039;. He proposes to take the reader on a journey through all the nested levels existing between micro and macro - &lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;It is my hope that once the complexity of that forgotten territory between the micro and the macro is grasped at the visceral level, the intellectual habit to privilege one or the other extreme will become easier to break.&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Digs are had at structuralists (macro-reductionists) and economists / social scientists who build theory on the individual, and aggregates thereof (micro-reductionists.) Oh, and Anthony Giddens (a &#039;meso-reductionist&#039;, apparently!)&lt;/p&gt;
+&lt;p&gt;Here&#039;s some Monday musings its caused, using &lt;a href=&quot;http://www.icosystem.com/game.htm&quot;&gt;Icosystem&#039;s Game&lt;/a&gt; and the genes of ants to bounce off.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/node/159&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/node/159#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/11">academic</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/7">2  stars</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/32">complexity</category>
+ <pubDate>Mon, 04 Feb 2008 15:26:02 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">159 at https://coveredinbees.org.archived.website</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://coveredinbees.org.archived.website"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>www.coveredinbees.org - r</title>
+ <link>https://coveredinbees.org.archived.website/taxonomy/term/87/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>How wiggly is Britain?</title>
+ <link>https://coveredinbees.org.archived.website/node/465</link>
+ <description>&lt;p&gt;I&#039;ve just had my first go at using R to create a blog post - a pretty pleasing process, actually. I take some previously harvested distance data and... oh, &lt;a href=&quot;http://danolner.github.io/2015/07/routeFactor/&quot;&gt;go read about it over there&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>https://coveredinbees.org.archived.website/node/465#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/87">r</category>
+ <pubDate>Fri, 03 Jul 2015 20:51:31 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">465 at https://coveredinbees.org.archived.website</guid>
+</item>
+</channel>
+</rss>

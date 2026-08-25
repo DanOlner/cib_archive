@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+	        <!-- charset must remain utf-8 to be handled properly by Processing -->
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		
+		<title>exploringchaos : Built with Processing</title>
+		
+		<style type="text/css">
+		/* <![CDATA[ */
+	
+		body {
+  		  margin: 60px 0px 0px 55px;
+		  font-family: verdana, geneva, arial, helvetica, sans-serif; 
+		  font-size: 11px; 
+		  background-color: #ddddcc; 
+		  text-decoration: none; 
+		  font-weight: normal; 
+		  line-height: normal; 
+		}
+		 
+		a          { color: #3399cc; }
+		a:link     { color: #3399cc; text-decoration: underline; }
+		a:visited  { color: #3399cc; text-decoration: underline; }
+		a:active   { color: #3399cc; text-decoration: underline; }
+		a:hover    { color: #3399cc; text-decoration: underline; }
+		
+		div#textbod {
+		
+		 width: 800px;
+		
+		}
+	
+		/* ]]> */
+		</style>
+	 
+	</head>
+	<body>
+		<div id="content">
+			<div id="exploringchaos_container">
+			
+			<!--[if !IE]> -->
+				<object classid="java:exploringchaos.class" 
+            			type="application/x-java-applet"
+            			archive="exploringchaos.jar"
+            			width="800" height="500"
+            			standby="Loading Processing software..." >
+            			
+					<param name="archive" value="exploringchaos.jar" />
+				
+					<param name="mayscript" value="true" />
+					<param name="scriptable" value="true" />
+				
+					<param name="image" value="loading.gif" />
+					<param name="boxmessage" value="Loading Processing software..." />
+					<param name="boxbgcolor" value="#FFFFFF" />
+				
+					<param name="test_string" value="outer" />
+			<!--<![endif]-->
+				
+				<object classid="clsid:8AD9C840-044E-11D1-B3E9-00805F499D93" 
+						codebase="http://java.sun.com/update/1.5.0/jinstall-1_5_0_15-windows-i586.cab"
+						width="800" height="500"
+						standby="Loading Processing software..."  >
+						
+					<param name="code" value="exploringchaos" />
+					<param name="archive" value="exploringchaos.jar" />
+					
+					<param name="mayscript" value="true" />
+					<param name="scriptable" value="true" />
+					
+					<param name="image" value="loading.gif" />
+					<param name="boxmessage" value="Loading Processing software..." />
+					<param name="boxbgcolor" value="#FFFFFF" />
+					
+					<param name="test_string" value="inner" />
+					
+					<p>
+						<strong>
+							This browser does not have a Java Plug-in.
+							<br />
+							<a href="http://java.sun.com/products/plugin/downloads/index.html" title="Download Java Plug-in">
+								Get the latest Java Plug-in here.
+							</a>
+						</strong>
+					</p>
+				
+				</object>
+				
+			<!--[if !IE]> -->
+				</object>
+			<!--<![endif]-->
+			
+			</div>
+			
+			<div id="textbod">
+			<p>This is an interactive version of the population model from <a href="http://mitpress.mit.edu/books/FLAOH/cbnhtml/home.html">Flake</a> and <a href="http://www.cscs.umich.edu/~crshalizi/weblog/556.html">Shalizi</a> that can exhibit chaotic behaviour. It demonstrates that chaos can appear even in the simplest systems. (Or does it? See below.) So what you're looking at is the equation below, iterated for one hundred time steps. There are 4 values of x, from zero to 0.6.</p>
+			
+			<p><strong>Start by clicking on the graph</strong>, then <strong>hold the spacebar while click-and-dragging</strong> up and down. You'll see, up to a point, the map stays stable. After that, instability appears to become amplified, until there's none at all - chaos. But look out for stable regions and  patterns.</p>
+			
+			<p>If you click and drag without holding the spacebar, you can quickly explore all values of R. This lets you look at low values where x is initially stable, before becoming periodic - and then chaotic.</p>
+			
+<p><strong>The equation: Xt+1 = 4rxt (1 - xt)</strong></p>
+
+<p><ul>
+  <li>X is the population at any one timestep.</li>
+  <li>R defines the reproduction rate.</li>
+  <li>Both of these have legal values from 0 to 1. (Flake changed the original slightly, so that 0 < R <  1, rather than 4 - hence the 4 in the equation.)</LI>
+  <li>The term (1 - x) provides negative feedback. It also guarantees that - as well as x = 0 being stable (the population has died out), if x = 1, on the next step, they'll also be wiped out. This, as Flake says, 'can be thought of as population decline due to overpopulation and scarce resources.' (Flake 1998, p.142)</li>
+</ul></p>
+
+<p><strong>Here are the full controls:</strong></p>
+
+<p>
+<ul>
+<li><strong>1 (one):</strong> Toggles logistic map on / off</li>
+<li><strong>2 (two):</strong> Cycles state space diagram from off to square to direct. Square is better for seeing how x converges to stable values. Direct is better for seeing periodic results.</li>
+
+<li><strong>Vertical click and drag:</strong> changes R by large amounts quickly. this will let you see when the reproduction rate leads to stable, periodic or chaotic outcomes.</li>
+
+  <li><strong>Vertical click and drag while holding spacebar:</strong> change R by 1/10 to the power of the 'decimal sweep' value . Allows a fine-grained look at certain regions of R.</li>
+  <li><strong>Vertical click and drag while holding control:</strong> do the same thing for X.</li>
+  <li><strong>Up and down arrows:</strong> change the number of initial X values. We start with one, at 0.5. Additional initial x values are spread evenly between 0 and 1 - though there are no 0s or 1s (both of these would immediately lead to population death in all models.)</li>
+  <li><strong>Left and right arrows:</strong> change the number of decimals to sweep by.</li>
+
+  <li><strong>A and Z:</strong> increase / decrease r by 1/10^ however many decimals you've chosen. More careful control than space + mouse. Note: this uses a float, and fairly quickly (~8) you can't get any result from it.</li>
+	<li><strong>S and X:</strong> do the same for the Xs. Again, more careful control than alt + mouse.</li>
+<li><strong>ALT:</strong> toggles blend - this will leave trails behind briefly. It does sometimes help to spot patterns, but is mainly here because, well, chaos is a little tie-dye trippy, isn't it? Let's face it.</li>
+
+</ul>
+</p>
+
+<p><strong>Some more notes:</strong></p>
+
+<p>Use the fine-grained controls to have a look at some of the periodic and chaotic regions (r > ~0.75). What do you notice? This can give a good intutive feel for the way the iteration propagates through all the timesteps.</p>
+
+<p>Notice especially - in regions where the first few timesteps have periodicity - what difference changing the sweep decimal makes. The finer-grained you go, the more predictable in the short term the system becomes - but it doesn't last long, and, for floats in Java at least, you quickly reach the limits of calculability.</p>
+
+<p><strong>Chaos: is it really 'out there' in the meatworld or just 'in here?' where our numbers have rounding errors?</strong></p>
+
+<p>That brings us to the final point: Flake asks - "How do we know if computer simulations of chaos are valid in the sense that they yield true characterisations of real chaos? Worse still, is it possible that 'chaos' is nothing more than a computer artifact that results from trying to represent a stochastic world with digital numbers?" (Flake, p.153)</p>
+
+<p>Flake does give an answer, but it makes no sense to me, since it's still based on 'shadowing' a simulated chaotic system with another simulation. Surely that just begs the question? Answers on a postcard please.</p>
+
+			</p>
+			
+			<p>
+			Source code: <a href="exploringchaos.pde">exploringchaos</a> 
+			</p>
+			
+			<p>
+			Built with <a href="http://processing.org" title="Processing.org">Processing</a>
+			</p>
+		</div>
+				
+		</div>
+		
+	</body>
+</html>

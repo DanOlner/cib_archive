@@ -1,0 +1,11 @@
+# Redirect HTTP to HTTPS
+# https://wiki.apache.org/httpd/RewriteHTTPToHTTPS
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteCond %{HTTPS} !=on
+  RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+</IfModule>
+ 
+# STS Header
+# https://stackoverflow.com/questions/24144552/how-to-set-hsts-header-from-htaccess-only-on-https
+# Header set Strict-Transport-Security "max-age=31536000" env=HTTPS

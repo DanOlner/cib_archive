@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://coveredinbees.org.archived.website"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>www.coveredinbees.org - evolutionary economics</title>
+ <link>https://coveredinbees.org.archived.website/taxonomy/term/36/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Equilibrium schmequil-schmibrium</title>
+ <link>https://coveredinbees.org.archived.website/node/454</link>
+ <description>&lt;p&gt;A &lt;a href=&quot;http://crookedtimber.org/2014/02/10/macroeconomics-made-easy/#comment-511899&quot;&gt;comment by `Zamfir&#039; at crooked timber&lt;/a&gt; (via &lt;a href=&quot;krugman.blogs.nytimes.com/2014/02/10/macroeconomic-winners-and-losers-implicitly-wonkish/&quot;&gt;Krugman&lt;/a&gt;) jumped out at me:&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;Lots of mechanics and other physical processes are modelled as equilibria, or quasi equilibria, even when people know that it is not correct. That&#039;s typically the opposite of purity-obsessed scholastism, it&#039;s more an engineering fix to get bad results that are still better than no results. You multiply the results by an out-of-the-blue correction factor for `dynamical effects&#039;, and hope for the best.&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Contrast with &lt;a href=&quot;http://www.nature.com/nature/journal/v448/n7154/full/448647a.html&quot;&gt;Philip Ball&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;[Economic] models take no account of real human behaviour, which is far too messy to permit any theorems that can be proved rigorously. Economic models become citadels of crystalline mathematical perfection that would shatter if touched by the harsh rays of reality.&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;(He does immediately go on to say &quot;it would be grossly unfair to suggest that this describes everything that happens in economics, let alone in all social sciences... But it is widespread&quot;.)&lt;/p&gt;
+&lt;p&gt;His target isn&#039;t specifically the use of static equilibrium assumptions in economic models, but the view Ball gives is spot on for how most agent-based modellers and complexity thinkers view it. ABM and complexity are seen as &quot;a pioneering break from a moribund Newtonian worldview&quot; (Manson 2001 p.412), obviously superior to those silly static equilibria. Usually they will argue that&#039;s the case because it&#039;s `more realistic&#039;. Hmm - so&#039;s Call of Duty 4, I&#039;m not sure that makes it a better model of anything.&lt;/p&gt;
+&lt;p&gt;Slightly less flippantly: the models are never the problem. You try what you can and throw it at the wall of reality. Some things stick. Or, as Einstein put it, talking about physics: it&#039;s &lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;&quot;a logical system of thought which is in a state of evolution, whose basis cannot be distilled, as it were, from experience by an inductive method, but can only be arrived at by free invention. The justification (truth content) of the system rests in the verification of the derived propositions by sense experiences. The skeptic will say: `it may well be true that this system of equations is reasonable from a logical standpoint. But it does not prove that it corresponds to nature&#039;. You are right, dear skeptic. Experience alone can decide on truth.&quot; (Quoted in Kaldor 1972 p.1239.)&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Like I say: try what you can, throw it at reality. I&#039;m not saying I&#039;m any good at this - I have a definite tendency to prefer making little pretend worlds - but the point is, there&#039;s nothing intrinsically wrong with using static equilibrium as an assumption. Zamfir&#039;s quote made me happy thinking about it being used in a practical manner all over the place. In some situations it&#039;s useful, in others less so, in some it makes no sense at all. The point is how it&#039;s used (&lt;a href=&quot;http://www.coveredinbees.org/node/378&quot;&gt;already rambled about that&lt;/a&gt; at some length).&lt;/p&gt;
+&lt;p&gt;I have this notion there&#039;s a direct parallel to `emergence&#039; in agent modelling. ABM is all about interaction: that&#039;s its basic structure and its main strength. The use of physics ideas in classical economics is its strength, but it&#039;s also what makes it brittle. The same is true for ABM. To be useful, you want your method to be able to help examine any number of different questions - but in ABM, it&#039;s easy to end up defaulting to Epstein&#039;s `if you didn’t grow it, you didn’t explain it&#039; (Epstein 2006 p.xii) and thinking you&#039;ve answered something. Di Paolo and Bullock nail that one: conflating emergence and explanation means whatever you were wanting to look at has been `brushed under the carpet of emergence&#039; (Di Paolo et al. 2000 p.8).&lt;/p&gt;
+&lt;p&gt;This is somewhat reminiscent of the final deathstar scene in Return of the Jedi: ABM ends up nearly becoming the thing it hates most: wedded to an obsession with realism, it can no longer experiment or pursue a diverse range of questions. Actually, that didn&#039;t sound anything like Return of the Jedi.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/node/454&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/node/454#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/32">complexity</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/37">economics</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/36">evolutionary economics</category>
+ <pubDate>Thu, 13 Feb 2014 20:39:50 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">454 at https://coveredinbees.org.archived.website</guid>
+</item>
+<item>
+ <title>Hayek and dry stone walls</title>
+ <link>https://coveredinbees.org.archived.website/node/180</link>
+ <description>&lt;p&gt;Tory David Willetts (apparently &#039;Shadow Secretary of State for Innovation, Universities and Skills&#039;) is to make a speech tonight at the LSE - &lt;a href=&quot;http://www.lse.ac.uk/collections/LSEPublicLecturesAndEvents/events/2008/20071128t1633z001.htm&quot;&gt;the Oakeshott lecture indeed&lt;/a&gt; - espousing the virtues of reciprocity, community and altruism. He is proposing that institutions be designed to support this sort of thing. The dry stone wall metaphor comes in because, as &lt;a href=&quot;http://www.timesonline.co.uk/tol/comment/columnists/daniel_finkelstein/article3399671.ece&quot;&gt;the Times quotes&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;A dry-stone wall, like the one David Willetts pointed out to David Cameron, does not have any glue or cement holding it together. It holds together because of the way it has been designed. Similarly, the aim of Tories is not to pour social glue on civil society through public policy, and armies of new laws, nor is to enunciate some new abstract principle of justice that might be at variance with human nature. It is to help society find different kinds of equilibrium.&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Willetts was on radio 4 this morning enthusiastically recounting how game theory, evolutionary economics and neuro-biology are giving scientific weight to his argument: as the lecture website says, he uses &#039;latest research from these disciplines [or at least popularisers of...] to explain what Government can and cannot do to influence our behaviour.&#039;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/node/180&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/node/180#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/11">academic</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/7">2  stars</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/36">evolutionary economics</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/49">hayek</category>
+ <pubDate>Wed, 20 Feb 2008 12:43:43 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">180 at https://coveredinbees.org.archived.website</guid>
+</item>
+</channel>
+</rss>

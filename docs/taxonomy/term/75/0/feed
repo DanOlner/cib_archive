@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://coveredinbees.org.archived.website"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>www.coveredinbees.org - Talisman</title>
+ <link>https://coveredinbees.org.archived.website/taxonomy/term/75/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What’s the difference between a boxplot and an x-ray? Visualisation and Processing</title>
+ <link>https://coveredinbees.org.archived.website/node/403</link>
+ <description>&lt;p&gt;&lt;em&gt;A repost of my &lt;a href=&quot;http://www.geotalisman.org/2012/08/29/boxplot-x-ray-visualisation-processing/&quot;&gt;first blog entry&lt;/a&gt; on the &lt;a href=&quot;http://www.geotalisman.org/&quot;&gt;Talisman&lt;/a&gt; blog, trying harder to understand visualisation and communication.&lt;/em&gt;&lt;br /&gt;
+--&lt;br /&gt;
+This article is the first of a few I hope to write about visualisation and &lt;a href=&quot;http://processing.org/&quot;&gt;Processing&lt;/a&gt;, a graphics tool created by Ben Fry and Casey Reas back in 2001. In this one I&#039;ll introduce Processing and get into some hard-core navel-gazing about visualisation. Next time I&#039;ll look at ways to use the Processing library as part of larger Java projects, where I&#039;ll assume some knowledge of Java and the Netbeans IDE. We can then move on to some fruitful combination of coding and chin-stroking. I&#039;ll also be attending the &lt;a href=&quot;http://www.guardian.co.uk/guardian-masterclasses/data-visualisation&quot;&gt;Guardian&#039;s data visualisation masterclass&lt;/a&gt; and will report back.&lt;/p&gt;
+&lt;p&gt;Communication and visualisation in research is both absolutely essential and mired in misunderstanding. It&#039;s essential, of course: all research needs to communicate its findings. Ideally, we want that communication to be effective. In some fields, communication is not only vital but fraught: the science of climate change faces concerted attempts to distort its output, and &lt;a href=&quot;http://planet3.org/2012/08/27/the-way-scientists-try-to-convince-people-is-hopeless/&quot;&gt;some wonder&lt;/a&gt; whether researchers are the best people to deal with this.&lt;/p&gt;
+&lt;p&gt;So what works? And, maybe more importantly, what doesn&#039;t work - and why not? The misunderstanding is perhaps quite simple: we think all images are equal. They enter the eye the same for everyone, don&#039;t they? Well, no. This post looks at some of these complexities by talking about four different static images: an x-ray, a box-plot, a mind-map and a simple graphic from the Guardian.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coveredinbees.org.archived.website/node/403&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>https://coveredinbees.org.archived.website/node/403#comments</comments>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/11">academic</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/75">Talisman</category>
+ <category domain="https://coveredinbees.org.archived.website/taxonomy/term/76">visualisation</category>
+ <pubDate>Wed, 29 Aug 2012 12:47:08 +0000</pubDate>
+ <dc:creator>dan</dc:creator>
+ <guid isPermaLink="false">403 at https://coveredinbees.org.archived.website</guid>
+</item>
+</channel>
+</rss>
